@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mateusz Ławinski 👋</h1>
-<h3 align="center">I'm Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
+<h4 align="center">Silesian University of Technology</h4>
 
 - 🔭 I’m currently working on [Antique Shop](https://github.com/mlawinski99/Antique-Shop)
 
