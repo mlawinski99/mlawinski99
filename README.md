@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateusz</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Computer Science Student</h3>
 
 - 🔭 I’m currently working on [Antique Shop](https://github.com/mlawinski99/Antique-Shop)
