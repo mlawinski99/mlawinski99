@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Antique Shop](https://github.com/mlawinski99/Antique-Shop)
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET Core MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mlawinski99?tab=repositories](https://github.com/mlawinski99?tab=repositories)
 
