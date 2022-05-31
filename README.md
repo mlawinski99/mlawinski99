@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 <h4 align="center">Silesian University of Technology</h4>
 
-- 🔭 I’m currently working on [Antique Shop](https://github.com/mlawinski99/Antique-Shop)
+- 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
 
 - 🌱 I’m currently learning **ASP.NET Core MVC**
 
