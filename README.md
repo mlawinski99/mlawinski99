@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
 
-- 🌱 I’m currently learning **.NET6, EF6, React, TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mlawinski99?tab=repositories](https://github.com/mlawinski99?tab=repositories)
 
