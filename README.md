@@ -11,7 +11,7 @@
 - 📫 How to reach me **mlawinskiv1@gmail.com**
 
 <h3 align="left">Technologies:</h3>
-**.NET, C#,  Git, ASP.NET Core, Entity Framework, SQL**
+.NET, C#,  Git, ASP.NET Core, Entity Framework, SQL
 
 
 <!---
