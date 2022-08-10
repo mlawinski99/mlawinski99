@@ -2,9 +2,9 @@
 <h3 align="center">Computer Science Student</h3>
 <h4 align="center">Silesian University of Technology</h4>
 
-- 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
+//- 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
 
-- 🌱 I’m currently learning **TypeScript, Microservices**
+- 🌱 I’m currently learning **Docker, Kubernetes, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mlawinski99?tab=repositories](https://github.com/mlawinski99?tab=repositories)
 
