@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mlawinskiv1@gmail.com**
 
-<h3 align="left">Technologies:</h3>
+<h3 align="center">Technologies:</h3>
 .NET, C#,  Git, ASP.NET Core WebAPI, ASP.NET Core MVC, Entity Framework Core, SQL
 
 
