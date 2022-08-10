@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Mateusz Ławinski 👋</h1>
 <h3 align="center">Computer Science Student</h3>
 <h4 align="center">Silesian University of Technology</h4>
+<br/>
 <!---
 - 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
 --->
