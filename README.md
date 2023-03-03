@@ -5,15 +5,15 @@
 <!---
 - 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
 --->
-
-- 🌱 I’m currently learning **Docker, Kubernetes, Microservices**
-
+<!---
+- 🌱 I’m currently learning **CQRS**
+--->
 - 👨‍💻 All of my projects are available at [https://github.com/mlawinski99?tab=repositories](https://github.com/mlawinski99?tab=repositories)
-
+<!---
 - 📫 How to reach me **mlawinskiv1@gmail.com**
-
+--->
 <h3 align="center">Technologies:</h3>
-<h5 align="center">.NET, C#,  Git, ASP.NET Core WebAPI, ASP.NET Core MVC, Entity Framework Core, SQL</h5>
+<h5 align="center">.NET, C#,  Git, ASP.NET Core WebAPI, ASP.NET Core MVC, Entity Framework Core, SQL, RabbitMQ, Docker</h5>
 
 
 <!---
