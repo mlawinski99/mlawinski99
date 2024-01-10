@@ -8,7 +8,7 @@
 <!---
 - 🌱 I’m currently learning **CQRS**
 --->
-- 👨‍💻 All of my projects are available at [https://github.com/mlawinski99?tab=repositories](https://github.com/mlawinski99?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/mlawinski99?tab=repositories
 <!---
 - 📫 How to reach me **mlawinskiv1@gmail.com**
 --->
