@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mateusz Ławinski 👋</h1>
-<h3 align="center">Computer Science Student</h3>
-<h4 align="center">Silesian University of Technology</h4>
+<h3 align="center">.NET Developer</h3>
+<h4 align="center">Computer Science Graduate</h4>
 <br/>
 <!---
 - 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
@@ -15,7 +15,7 @@
 - 📫 How to reach me **mlawinskiv1@gmail.com**
 --->
 <h3 align="center">Technologies:</h3>
-<h5 align="center">C#; .NET; .NET Core; ASP.NET Core MVC; ASP.NET Core WebAPI; Entity Framework Core; Docker; TypeScript; SQL; Git; Azure; Azure DevOps; JIRA; Web development;</h5>
+<h5 align="center">C#; .NET; .NET Core; ASP.NET Core MVC; ASP.NET Core WebAPI; Entity Framework Core; Docker; Kubernetes; Angular; Vue; TypeScript; SQL; Git; Azure; Azure DevOps; JIRA; Web development;</h5>
 
 
 <!---
