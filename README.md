@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Mateusz Ławinski 👋</h1>
 <h3 align="center">.NET Developer</h3>
-<h4 align="center">Computer Science Graduate</h4>
-<br/>
+<h4 align="center">Computer Science Graduate</h4
 <!---
 - 🔭 I’m currently working on [Car Dealerships](https://github.com/mlawinski99/Car-Dealerships)
 --->
