@@ -8,14 +8,11 @@
 <!---
 - 🌱 I’m currently learning **CQRS**
 --->
-<p align="center">
-- 👨‍💻 All of my projects are available at https://github.com/mlawinski99?tab=repositories
-</p>
 <!---
 - 📫 How to reach me **mlawinskiv1@gmail.com**
 --->
 <h3 align="center">Technologies:</h3>
-<h5 align="center">C#; .NET; .NET Core; ASP.NET Core MVC; ASP.NET Core WebAPI; Entity Framework Core; Docker; Kubernetes; Angular; Vue; TypeScript; SQL; Git; Azure; Azure DevOps; JIRA; Web development;</h5>
+<h5 align="center">C#; .NET; .NET Core; ASP.NET Core MVC; ASP.NET Core WebAPI; Entity Framework Core; Docker; Kubernetes; Angular; Vue; TypeScript; Python; SQL; Git; Azure; Azure DevOps; JIRA; Web development;</h5>
 
 
 <!---
